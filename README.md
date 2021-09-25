@@ -30,6 +30,6 @@ Leçons
   2.
   3.
 
-Activité parascolaire: [Défi du gouverneur de la Banque du Canada](https://www.banqueducanada.ca/recherches/defi-gouverneur/)
+Activité parascolaire: Défi du gouverneur de la Banque du Canada
 -----------------------------------------------------------------
-Les élèves interessés sont invités à former une équipe pour participer au « Défi du gouverneur » de la Banque du Canada. La participation au « Défi » est optionnelle et ne compte pas dans la note.
+Les élèves interessés sont invités à former une équipe pour participer au « [Défi du gouverneur](https://www.banqueducanada.ca/recherches/defi-gouverneur/) » de la Banque du Canada. La participation au « Défi » est optionnelle et ne compte pas dans la note.
