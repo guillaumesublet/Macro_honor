@@ -1,2 +1,2 @@
 # Macro_honor
-Cours de macroéconomie honor
+Cours de macroéconomie honor.
