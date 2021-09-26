@@ -28,7 +28,7 @@ Leçons
   6. [Résultats empiriques sur le multiplicateur fiscal et l’équivalence de Ricardo](Cours/ECN4050_5_bis.pdf)
   7. [Modèle néoclassique de croissance et calibration](Cours/ECN4050_6.pdf)
   8. [Résolution locale et globale du modèle néoclassique de croissance](Cours/ECN4050_7.pdf)
-  9. [Modèle « RBC » et cycles conjoncturesl réels](Cours/ECN4050_8.pdf)
+  9. [Modèle « RBC » et cycles conjoncturels réels](Cours/ECN4050_8.pdf)
 
 **II Économie néo-keynesienne et politique monétaire**
   1. [Demande de monnaie avec « MiU » et équilibre partiel sur le marché de la monnaie](Cours/ECN4050_9.pdf)
