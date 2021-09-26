@@ -31,7 +31,7 @@ Leçons
   9. [Modèle « RBC » et cycles conjoncturesl réels](Cours/ECN4050_8.pdf)
 
 **II Économie néo-keynesienne et politique monétaire**
-  1. [Demande de monnaie avec « MiU »et équilibre partiel sur le marché de la monnaie](Cours/ECN4050_9.pdf)
+  1. [Demande de monnaie avec « MiU » et équilibre partiel sur le marché de la monnaie](Cours/ECN4050_9.pdf)
   2. [Politique monétaire dans le modèle néoclassique avec « MiU », règle de Friedman](Cours/ECN4050_10.pdf)
   3. [(In)détermination des valeurs nominales de l’équilibre; règle de Taylor et Principe de Taylor](Cours/ECN4050_10_bis.pdf)
   4. [Preuves empiriques de rigidités nominales et de non-neutralité de la monnaie](Cours/ECN4050_11.pdf)
