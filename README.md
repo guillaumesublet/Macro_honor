@@ -20,12 +20,23 @@ Leçons
   2. [Modèle IS-LM/MP](Cours/ECN4050_1_bis.pdf)
 
 **I Économie réelle et politique budgétaire**
-  1.
-  
+  1. [Filtrer les données pour obtenir des cycles conjoncturels réels](Cours/ECN4050_2.pdf)
+  2. [Modèle néo-classique statique: équilibre et efficacité](Cours/ECN4050_3.pdf)
+  3. [Modèle néo-classique statique avec dépenses publiques: multiplicateur fiscal](Cours/ECN4050_4.pdf)
+  4. [Dette publique dans un contexte de taux d'intérêt bas](Cours/ECN4050_4_bis.pdf)
+  5. [Modèle néoclassique dynamique avec épargne en dette publique mais sans capital; équivalence de Ricardo, neutralité de la monnaie](Cours/ECN4050_5.pdf)
+  6. [Résultats empiriques sur le multiplicateur fiscal et l’équivalence de Ricardo](Cours/ECN4050_5_bis.pdf)
+  7. [Modèle néoclassique de croissance et calibration](Cours/ECN4050_6.pdf)
+  8. [Résolution locale et globale du modèle néoclassique de croissance](Cours/ECN4050_7.pdf)
+  9. [Modèle « RBC » et cycles conjoncturesl réels](Cours/ECN4050_8.pdf)
+
 **II Économie néo-keynesienne et politique monétaire**
-  1.
-  2.
-  3.
+  1. [Demande de monnaie avec « MiU »et équilibre partiel sur le marché de la monnaie](Cours/ECN4050_9.pdf)
+  2. [Politique monétaire dans le modèle néoclassique avec « MiU », règle de Friedman](Cours/ECN4050_10.pdf)
+  3. [(In)détermination des valeurs nominales de l’équilibre; règle de Taylor et Principe de Taylor](Cours/ECN4050_10_bis.pdf)
+  4. [Preuves empiriques de rigidités nominales et de non-neutralité de la monnaie](Cours/ECN4050_11.pdf)
+  5. [Modèle néo-keynesien, équation IS dynamique et courbe de Phillips néo-Keynesienne](Cours/ECN4050_12.pdf)
+  6. [Politique monétaire optimale dans le modèle néokeynesien; ciblage de l’inflation](Cours/ECN4050_12_bis.pdf)
 
 Activité parascolaire: Défi du gouverneur de la Banque du Canada
 -----------------------------------------------------------------
