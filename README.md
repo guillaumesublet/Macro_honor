@@ -35,7 +35,7 @@ Leçons
   2. [Politique monétaire dans le modèle néoclassique avec « MiU », règle de Friedman](Cours/ECN4050_10.pdf)
   3. [(In)détermination des valeurs nominales de l’équilibre; règle de Taylor et Principe de Taylor](Cours/ECN4050_10_bis.pdf)
   4. [Preuves empiriques de rigidités nominales et de non-neutralité de la monnaie](Cours/ECN4050_11.pdf)
-  5. [Modèle néo-keynesien, équation IS dynamique et courbe de Phillips néo-Keynesienne](Cours/ECN4050_12.pdf)
+  5. [Modèle néo-keynesien, équation IS dynamique et courbe de Phillips néo-keynesienne](Cours/ECN4050_12.pdf)
   6. [Politique monétaire optimale dans le modèle néokeynesien; ciblage de l’inflation](Cours/ECN4050_12_bis.pdf)
 
 Activité parascolaire: Défi du gouverneur de la Banque du Canada
