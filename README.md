@@ -9,7 +9,7 @@ L’objectif principal du cours est d’améliorer la capacité à utiliser des 
 
 Matériel pédagogique
 --------------------
-Le cours est basé sur un ensemble de diapositives mis à disposition sur StudiUM au fil de l’avancement du cours. Pour approfondir, l’étudiant est encouragé à consulter les manuels, ainsi que des articles de recherche publiés dans des revues spécialisées. Les manuels et les articles de recherche seront mis à disposition sur la page StudiUM du cours.
+Le cours est basé sur un ensemble de diapositives. Pour approfondir, l’étudiant est encouragé à consulter les manuels ci-dessous, ainsi que les articles de recherche publiés dans des revues spécialisées cités dans les diapositives. Les manuels et les articles de recherche seront mis à disposition sur la page StudiUM du cours.
   - (K) Krueger D. (2007) Quantitative Macroeconomics : An Introduction (disponible sur StudiUM).
   - (G) Gali, J. (2015), Monetary Policy, Inflation and the Business Cycle, 2nd edition, Princeton University Press. 
 
