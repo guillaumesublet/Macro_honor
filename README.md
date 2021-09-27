@@ -24,7 +24,7 @@ Leçons
   2. [Modèle néo-classique statique: équilibre et efficacité](Cours/ECN4050_3.pdf)
   3. [Modèle néo-classique statique avec dépenses publiques: multiplicateur fiscal](Cours/ECN4050_4.pdf)
   4. [Dette publique dans un contexte de taux d'intérêt bas](Cours/ECN4050_4_bis.pdf)
-  5. [Modèle néoclassique dynamique avec épargne en dette publique mais sans capital; équivalence de Ricardo, neutralité de la monnaie](Cours/ECN4050_5.pdf)
+  5. [Modèle néoclassique dynamique avec épargne en dette publique: équivalence de Ricardo et neutralité de la monnaie](Cours/ECN4050_5.pdf)
   6. [Résultats empiriques sur le multiplicateur fiscal et l’équivalence de Ricardo](Cours/ECN4050_5_bis.pdf)
   7. [Modèle néoclassique de croissance et calibration](Cours/ECN4050_6.pdf)
   8. [Résolution locale et globale du modèle néoclassique de croissance](Cours/ECN4050_7.pdf)
