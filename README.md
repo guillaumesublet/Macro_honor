@@ -32,7 +32,7 @@ Leçons
 
 **II Économie néo-keynesienne et politique monétaire**
   1. [Demande de monnaie et équilibre partiel sur le marché de la monnaie](Cours/ECN4050_9.pdf)
-  2. [Politique monétaire optiamle dans le modèle néoclassique avec « MiU »: règle de Friedman](Cours/ECN4050_10.pdf)
+  2. [Politique monétaire optimale dans le modèle néoclassique avec « MiU »: règle de Friedman](Cours/ECN4050_10.pdf)
   3. [(In)détermination: règle et principe de Taylor](Cours/ECN4050_10_bis.pdf)
   4. [Résultats empiriques sur les rigidités nominales et la non-neutralité de la monnaie](Cours/ECN4050_11.pdf)
   5. [Modèle néo-keynesien: équation IS dynamique et courbe de Phillips néo-keynesienne](Cours/ECN4050_12.pdf)
